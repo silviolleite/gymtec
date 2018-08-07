@@ -1,0 +1,26 @@
+{
+    "title": "gymtec",
+    "name": "gymtec",
+    "version": "1.0.0",
+    "description": "GymTec é um modelo de site para ser utilizado no curso de Python e Django",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive"
+    ],
+    "license": "MIT",
+    "author": "Silvio Luis",
+    "dependencies": {},
+    "devDependencies": {
+        "browser-sync": "2.24.5",
+        "gulp": "^3.9.1",
+        "gulp-clean": "^0.4.0",
+        "gulp-clean-css": "3.9.4",
+        "gulp-header": "2.0.5",
+        "gulp-rename": "1.3.0",
+        "gulp-sass": "4.0.1",
+        "gulp-sourcemaps": "^2.6.4",
+        "gulp-uglify": "3.0.0"
+    }
+}
