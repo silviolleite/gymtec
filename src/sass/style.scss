@@ -427,7 +427,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .gymtec-cover {
 	height: 800px;
-
+	background-image: url(../images/img_bg_2.jpg);
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -893,6 +893,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 #gymtec-started {
 	position: relative;
+	background-image: url(../images/img_bg_3.jpg);
 	.overlay {
 		position: absolute;
 		top: 0;
